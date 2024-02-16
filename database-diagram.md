@@ -2,5 +2,9 @@
 
 this is a demo diagram for Git Hub. version 2
 
+![image.png](/.eraser/Fyr0lm1BEBISs1ccopCj___YxmJtojCZcVlIrZJGpj0gzqnetd2___A5wty8YWgWAK_mZ2vnuGk.png "image.png")
+
+
+
 
 <!--- Eraser file: https://app.eraser.io/workspace/Fyr0lm1BEBISs1ccopCj --->
